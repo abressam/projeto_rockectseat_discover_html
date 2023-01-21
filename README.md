@@ -8,7 +8,7 @@
 # 🚀 Introdução
 
 <p align="justify">
-  Esse projeto foi desenvolvido durante o módulo Guia Estelar de HTML, para fixar conhecimentos.
+  Esse projeto foi desenvolvido durante o módulo Guia Estelar de HTML.
 </p><br>
 
 # 🧠 Conceitos Aprendidos
@@ -16,4 +16,6 @@
 * Semântica do HTML;
 * Tags (texto, imagem, navegação, etc);
 * Listas (ordenada e não ordenada);
-* Links.
+* Links;
+* Tabelas;
+* Meta dados;
