@@ -34,5 +34,44 @@
     <p>
         <img src="./mango.jpg" alt="Manga">
     </p>
+    <table>
+        <caption>Frutas Armazenadas x Vendidas por Loja</caption>
+        <colgroup>
+            <col>
+            <col span="2" style="background-color: darkcyan;">
+            <col span="2" style="background-color: darkturquoise;">
+        </colgroup>
+        <thead>
+            <tr>
+                <!-- Ocupa 2 linhas -->
+                <th rowspan="2"></th>
+                <!-- Ocupa 2 colunas -->
+                <th colspan="2" scope="colgroup">Verde Fruti</th>
+                <th colspan="2" scope="colgroup">Bananas Joe</th>
+            </tr>
+            <tr>
+                <th scope="col">Armazenadas</th>
+                <th scope="col">Vendidas</th>
+                <th scope="col">Armazenadas</th>
+                <th scope="col">Vendidas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Maçã</th>
+                <td>44</td>
+                <td>20</td>
+                <td>35</td>
+                <td>18</td>
+            </tr>
+            <tr>
+                <th scope="row">Manga</th>
+                <td>50</td>
+                <td>39</td>
+                <td>20</td>
+                <td>17</td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
