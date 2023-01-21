@@ -1,1 +1,1 @@
-# projeto_rockectseat_discover_html
+# Exercício Prático HTML - Discover
